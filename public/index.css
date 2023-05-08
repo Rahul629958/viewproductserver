@@ -1,0 +1,153 @@
+body{
+    background-color: #3C486B;
+    color: #00235B;
+}
+
+.homebox
+{
+    width: fit-content;
+    margin: 5% auto 10% auto;
+    background-color: #A6D0DD;
+    border-radius: 1rem;
+    box-shadow: 10px 10px #ffffff;
+
+
+}
+
+
+.heading
+{
+   font-size: 300%;
+   text-align: center;
+   margin-bottom: 10%;
+   margin-top: 2%;
+   padding-left:10px;
+   padding-right:10px;
+}
+
+.inputText
+{
+   width: 70%;
+}
+
+.inputCheck
+{
+  margin-bottom: 5%;
+}
+
+.btn
+{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 75%;
+}
+
+.imgIcon
+{
+  width:10%;
+  margin-top:10px;
+  margin-left: 5%;
+}
+
+
+.iconText
+{
+  font-size: 500%;
+  font-family: cursive;
+  color: aliceblue;
+}
+.resultBox{
+margin-top: 10%;
+background-color: #cae9f2;
+padding-bottom: 30%;
+border-top-left-radius: 3rem;
+border-top-right-radius: 3rem;
+
+}
+
+.productBox
+{
+  
+
+}
+.productIcon
+{
+  width:15%;
+  /* padding-top: 10px;
+  padding-right: 10px; */
+  margin-top: 10px;
+  margin-right: 10px;
+  border-radius: 2rem;
+  box-shadow:5px 5px #ffffff;
+
+  
+}
+.productTitle
+{
+  font-size: 300%;
+  font-weight: bolder;
+  text-shadow:2px 2px #ffffff;
+}
+.productTitle:hover
+{
+  cursor: pointer;
+  font-size: 310%;
+  text-shadow:2px 2px #b1fcff;
+  text-decoration: underline;
+}
+.productHighlight
+{
+  font-size: 150%;
+  color:brown;
+  margin-top: 5px;
+  margin-left: 15px;
+  text-decoration: underline;
+  text-shadow:1px 1px #d9fffd;
+}
+.productDescription
+{
+  font-size: 110%;
+  background-color: #eafeff;
+  padding: 15px;
+  border-radius: 1rem;
+}
+.productTag
+{
+  font-size: 150%;
+}
+.productTagItem
+{
+  border-radius: 1rem;
+  background-color:rgb(105, 170, 172);
+  padding:2px 15px 2px 15px;
+  margin-left: 10px;
+  color: white;
+}
+.comment{
+  font-size: 150%;
+}
+.commentItem
+{
+  color: blue;
+}
+
+
+.knowMoreLink
+{
+  font-size: 120%;
+  border-radius: 1rem;
+  background-color:rgb(193, 244, 255);
+  padding:2px 15px 2px 15px;
+  color: #3C486B;
+}
+.knowMoreLink:hover{
+  border-radius: 1rem;
+  background-color:rgb(255, 255, 255);
+  padding:2px 15px 2px 15px;
+  text-decoration: none;
+  color: #00235B;
+}
+
+
+
+
